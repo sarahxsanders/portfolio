@@ -38,9 +38,7 @@ Model Runner](https://www.docker.com/blog/how-to-build-an-ai-tutor-with-model-ru
 
 ## Highnote
 
-Senior Technical Writer | May 2024 - September 2024
-Technical Writer | July 2023 - May 2024
-Contract Technical Writer | March 2023 - July 2023
+Senior Technical Writer | March 2023 - September 2024
 
 ### Featured work
 
